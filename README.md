@@ -2,9 +2,11 @@
 
 👀 I’m interested in Software Architecture, Development, DevOps and Infrastructure
 
-🌱 I’m currently learning ...
+🌱 I'm currently improving myself in Gateway API with Kong and Kubernetes, Kafka, RabbitMQ, GraphQL, REST, gRPC; and studying (a lot!) service mesh with Istio, Terraform     and Go Lang.
 
-💞️ I'm looking to collaborate at Sevensys TI as a backend developer; especially using the stacks: API Rest, Spring ecosystem, Kafka, RabbitMQ, Docker, Kubernetes, Terraform and API Gateway.
+👀 The next steps will be with Observability, Open Telemetry, Ansible, GitOps and deployments on GCP and Azure.
+
+💞️ I'm looking to collaborate at Sevensys TI as a backend developer; especially using the stacks: API Rest, Spring ecosystem, Redis, Kafka, RabbitMQ, Docker, Kubernetes, Terraform and API Gateway.
 
 
 
