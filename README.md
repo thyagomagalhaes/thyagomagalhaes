@@ -6,7 +6,7 @@
 
 👀 The next steps will be with Observability, Open Telemetry, Ansible, GitOps and deployments on GCP and Azure.
 
-💞️ I'm looking to collaborate at BRQ Digital Solutions as a backend developer; especially using the stacks: API Rest, Spring ecosystem, Redis, Kafka, RabbitMQ, Docker, Kubernetes, Terraform and API Gateway.
+💞️ I'm looking to collaborate at BRQ Digital Solutions as a backend developer; especially using the stacks: AWS, Microservices, API Rest, Spring ecosystem, Redis, Kafka, RabbitMQ, Docker, Kubernetes, Prometheus, Grafana, Terraform and API Gateway.
 
 
 
